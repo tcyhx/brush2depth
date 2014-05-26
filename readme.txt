@@ -3,7 +3,7 @@
 
 - Note:
 (1) The implementation is for our submitted paper:
-    Nonlocal Random Walks for Semi-Automatic 2D-to-3D Image Conversion
+    Nonlocal Random Walks Algorithm for Semi-Automatic 2D-to-3D Image Conversion
 (2) This software is used to generate user labels, masks for semi-automatic 2D-to-3D conversion.
 (3) We use OpenCV 2.4.6 to read and write images, the higher version should also work.
 (4) This code has been tested in Microsoft Visual Studio 2012 running on Windows 7(64bit). 
